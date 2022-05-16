@@ -1,0 +1,42 @@
+title: Amanda Martins
+tagline: A site dedicated to showcase my content
+description: >
+  I'm Amanda, a Software Engineer based on São Paulo, Brazil.
+  Currently working at IBM, pursuing an A.S. System Analysis and Development, and contributing to some open-source projects.
+  Also, writing content for brazilian tech communities, such as Feministech and A Caverna.
+  Feel free to reach me and explore some of my projects and contents! ❤️
+url: https://amandamartins.dev
+author: Amanda Martins Xavier
+twitter:
+  username: MandysDev
+  card: summary
+social:
+  name: Ben Balter
+  links:
+    - https://twitter.com/MandysDev
+    - https://www.linkedin.com/in/AmandaMartinsDev
+    - https://github.com/AmandaMartinsDev
+    - https://keybase.io/benbalter
+    - https://dev.to/AmandaMartinsDev
+    - https://mandys.itch.io
+    - https://twitch.tv/AmandaMartinsDev
+    - https://www.youtube.com/channel/UC5siI335fbxWCQtiHJ9-dhQ
+locale: en_US
+
+theme: jekyll-theme-console
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+header_pages:
+  - index.md
+  - projects.md
+  - articles.md
+  - contact.md
+
+footer: 'Made with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 🧪 and <a href="https://github.com/b2a3e8/jekyll-theme-console" target="_blank">Console Theme</a> 🎨'
+
+exclude:
+  - README.md
+  - LICENSE
