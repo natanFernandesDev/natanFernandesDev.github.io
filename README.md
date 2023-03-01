@@ -65,8 +65,8 @@ You can find more information on the [official documentation](https://docs.githu
 
 ## 📋 Issues
 
-Feel free to open an issue if you found a bug or have a suggestion, so we can discuss the best way to improve or fix it.
+Feel free to open an issue if you find a bug or have a suggestion, so we can discuss the best way to improve or fix it.
 
 ## 📜 License
 
-This project is under [MIT license](LICENSE), so you can freely use it as a template for your personal, professional or project website.
+This project is made under the MIT license, for more information about its possible use, modification, and sharing, [click here](LICENSE).
