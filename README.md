@@ -1,15 +1,12 @@
 
-# ⭐ Website
-![GitHub Actions Status](https://github.com/AmandaMartinsDev/website/actions/workflows/main.yml/badge.svg)
-![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)
-![MIT license](https://img.shields.io/github/license/AmandaMartinsDev/website)
+# Website ⭐
 
 > A simple and cool retro styled website, built to showcase my content and projects.
 
 ## 📋 Requirements
 
-1. [Ruby 2.7.6](https://www.ruby-lang.org/)
-3. [Bundler 2.3](https://bundler.io/)
+- [Ruby 2.7.6](https://www.ruby-lang.org/)
+- [Bundler 2.3](https://bundler.io/)
 
 ## 🔎 Usage
 
