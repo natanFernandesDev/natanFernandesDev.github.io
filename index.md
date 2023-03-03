@@ -4,7 +4,7 @@ title:  Home
 permalink: /
 ---
 
-**🖖 Hello visitor! What's up?**
+**🖖 Hello visitor! What's up!?**
 
 I'm Natan, a Software Developer based in Brasilia-DF, Brazil.
 
