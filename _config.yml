@@ -1,26 +1,19 @@
-title: Amanda Martins
+title: Natan Fernandes
 tagline: A site dedicated to showcase my content
 description: >
-  I'm Amanda, a Software Engineer based on São Paulo, Brazil.
-  Currently working at IBM, pursuing an A.S. System Analysis and Development, and contributing to some open-source projects.
-  Also, writing content for brazilian tech communities, such as Feministech and A Caverna.
-  Feel free to reach me and explore some of my projects and contents! ❤️
-url: https://amandamartins.dev
-author: Amanda Martins Xavier
+I'm Natan, a Software Developer based in Brasilia-DF, Brazil.
+Currently working as a freelancer. Feel free to get in touch with me and explore some of my projects and content! ❤️
+url: https://natanfernandesdev.github.io
+author: Natan Fernandes
 twitter:
-  username: MandysDev
-  card: summary
+  username: 
+  card: 
 social:
   name: Ben Balter
   links:
-    - https://twitter.com/MandysDev
-    - https://www.linkedin.com/in/AmandaMartinsDev
-    - https://github.com/AmandaMartinsDev
-    - https://keybase.io/benbalter
-    - https://dev.to/AmandaMartinsDev
-    - https://mandys.itch.io
-    - https://twitch.tv/AmandaMartinsDev
-    - https://www.youtube.com/channel/UC5siI335fbxWCQtiHJ9-dhQ
+    - https://github.com/natanFernandesDev/
+    - linkedin.com/in/natan-fernandes-209586185/
+    - https://medium.com/@natangt11
 locale: en_US
 
 theme: jekyll-theme-console
