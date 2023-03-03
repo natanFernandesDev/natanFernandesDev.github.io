@@ -5,7 +5,6 @@ gem "jekyll", "~> 4.2.2"
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem 'webrick'
-
 gem "jekyll-theme-console"
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
