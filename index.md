@@ -6,10 +6,8 @@ permalink: /
 
 **🖖 Hello visitor! What's up?**
 
-I'm Amanda, a Software Engineer based on São Paulo, Brazil.
+🖖 Hello visitor! What’s up?
 
-Currently working at IBM, pursuing an A.S. System Analysis and Development, and contributing to some open-source projects.
+I'm Natan, a Software Developer based in Brasilia-DF, Brazil.
 
-Also, writing content for brazilian tech communities, such as Feministech and A Caverna.
-
-Feel free to reach me and explore some of my projects and contents! ❤️
+Currently working as a freelancer. Feel free to get in touch with me and explore some of my projects and content! ❤️
