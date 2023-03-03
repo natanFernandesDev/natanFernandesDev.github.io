@@ -5,4 +5,4 @@
 
 ## 📜 License
 
-This project is made under the MIT license, for more information about its possible use, modification, and sharing, [click here](LICENSE).
+> This project is made under the MIT license, for more information about its possible use, modification, and sharing, [click here](LICENSE).
