@@ -25,7 +25,7 @@ header_pages:
   - articles.md
   - contact.md
 
-footer: 'Made with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 🧪 and <a href="https://github.com/b2a3e8/jekyll-theme-console" target="_blank">Console Theme</a> 🎨'
+footer: ''
 
 exclude:
   - README.md
