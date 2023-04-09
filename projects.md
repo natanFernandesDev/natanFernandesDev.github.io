@@ -5,5 +5,5 @@ description: Page containing projects made and contributed by Natan Fernandes
 permalink: /projects
 ---
 
-- 🤖 Whatsapp-BOT | Typescript, Venom-Bot | Express
-> Automated WhatsApp bot for internal administrative support: designed to respond to messages and provide assistance for employees.
+- <img src="/icons/rubinot.png" alt="ícone do exemplo" width="15" height="15"> **[RubinOT](https://rubinot.com){:target="_blank"}** | C++, LUA | *Tibia 13x*
+> Systems development, creating mechanics for creatures, monster behaviors.
