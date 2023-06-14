@@ -9,4 +9,3 @@ permalink: /contact
 
 - Follow me on [GitHub](https://github.com/natanFernandesDev/){:target="_blank"}
 - Follow me on [LinkedIn](linkedin.com/in/natan-fernandes-209586185/){:target="_blank"}
-- Follow me on [Medium](https://medium.com/@natangt11){:target="_blank"}
